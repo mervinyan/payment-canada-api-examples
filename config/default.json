@@ -1,0 +1,16 @@
+{
+  "port": 3000,
+  "fif_branch_example": {
+    "consumer_key": "OtLtaaN5YnU3Fw7YWKOUsEhwAwmA6Ad2",
+    "consumer_secret": "zHcHtROgwnx7D1wF"
+  },
+  "fif_extracts_example": {
+    "consumer_key": "2s308YJ3ezhTYwU7xwwjl3hxTvMGlNgA",
+    "consumer_secret": "GhBrYhsfXDpgLMcx"
+  },
+  "access_token_api_url": "https://api.payments.ca/accesstoken",
+  "fif_branch_api_access_token": "gBCqmRMcDUPoybJOP8ecfF2sA6oO",
+  "fif_branch_api_base_url": "https://api.payments.ca/fif-branch-sandbox",
+  "fif_extracts_api_access_token": "zKMhMAmE1AG2biKsKn5p2w98C6r3",
+  "fif_extracts_api_base_url": "hhttps://api.payments.ca/fif-extracts-sandbox"
+}
